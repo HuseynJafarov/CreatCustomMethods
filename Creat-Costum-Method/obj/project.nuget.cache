@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "66GM/oUWuVhghBupgV+unpId4ruxXpeHUdkN/Tv7Kq+x1ssoJVopDNcZ/8iEWDWQu16OtNLN4/KQA3Y7Nk+AgQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\Desktop\\C#\\CodeHomeWork1\\Creat-Costum-Method\\Creat-Costum-Method\\Creat-Costum-Method.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512"
+  ],
+  "logs": []
+}
